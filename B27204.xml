@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A placat of the High and Mighty Lords the States General of the United Netherlands; conteining a sharp prohibition to the inhabitants of these lands, and also concerning the navigation and commerce of the neutrals to the havens of France and England, and also goods of contrabande, and assurances of ships and goods belonging to the subjects of the Kings of France and Great Brittany.</title>
+            <title>Placcaet van de Hooge Mogende Heeren Staten Generael der Vereenichde Nederlanden. English and Dutch</title>
+            <author>United Provinces of the Netherlands. Staten Generaal.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27204</idno>
+            <idno type="OCLC"> 12562147</idno>
+            <idno type="STC">Wing N489</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[50e]</idno>
+            <idno type="STC">ESTC R20102</idno>
+            <idno type="EEBO-CITATION">99883248</idno>
+            <idno type="PROQUEST">ocm99883248</idno>
+            <idno type="VID">192543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B27204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192543)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:3[208])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A placat of the High and Mighty Lords the States General of the United Netherlands; conteining a sharp prohibition to the inhabitants of these lands, and also concerning the navigation and commerce of the neutrals to the havens of France and England, and also goods of contrabande, and assurances of ships and goods belonging to the subjects of the Kings of France and Great Brittany.</title>
+                  <title>Placcaet van de Hooge Mogende Heeren Staten Generael der Vereenichde Nederlanden. English and Dutch</title>
+                  <author>United Provinces of the Netherlands. Staten Generaal.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Jacobus Scheltus printer to the High and Mighty Lords the States General, dwelling in the Inner Hoff,</publisher>
+                  <pubPlace>[In the Hague :</pubPlace>
+                  <date>anno 1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>English and Dutch in parallel columns.</note>
+                  <note>Imprint from English colophon. Dutch colophon reads: In s'Gravenhage, by Jacobus Scheltus, drucker van de Hoogh Mog. Heeren Staten Generael, woonende op het Binnen-Hoff. Anno 1672.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch War, 1672-1678 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="eng" type="text">
+            <pb facs="tcp:192543:1"/>
+            <pb n="1" facs="tcp:192543:1" rendition="simple:additions"/>
+            <head>
+               <hi>A PLACAT</hi> Of the High and Mighty Lords the States General of the United <hi>Nether<g ref="char:EOLhyphen"/>lands;</hi> Conteining a ſharp Prohibiti<g ref="char:EOLhyphen"/>on to the Inhabitants of theſe Lands, and alſo concerning the Navigation and Commerce of the Neutrals to the Havens of <hi>France</hi> and <hi>England,</hi> and alſo Goods of Contrabande, and Aſsu<g ref="char:EOLhyphen"/>rances of Ships and Goods belonging to the Subjects of the Kings of <hi>France</hi> and <hi>Great Brittany.</hi>
+            </head>
+            <p>THe States General of the United <hi>Netherlands,</hi> to all thoſe who ſhall ſee or hear read theſe Preſents, Greeting, Do make it known that ſince the Kings of <hi>France</hi> and <hi>Great Brittany</hi> have found good to declare and begin a War againſt us, contrary to all right and reaſon, we are therefore neceſſitated accor<g ref="char:EOLhyphen"/>ding to the Law of Nature and the Right of Nations, to take up Arms, as well for the neceſſary Reſiſtance of the aforeſaid hoſtile proceedings, as for Redreſs and Reparation of the damages and loſſes thereby unjuſtly ſuſteined; and conſequently on our ſide like<g ref="char:EOLhyphen"/>wiſe to enter into an open Rupture againſt the aforeſaid Kings; And further we to the aforeſaid end, and eſpecially for ſo much as in us is, to prevent all further miſchief from that ſide, are obliged and holden according to our power, and as far as it may be with<g ref="char:EOLhyphen"/>out prejudice to our Allies, Friends, and Neutrals, according to the Law of Nations, to intercept and hinder the aforeſaid Kings from the Commodities and Proviſions with which they might be able to do further in<g ref="char:EOLhyphen"/>jury to the State of theſe Lands, and the good Inhabitants of the ſame. SO IT is that we have found good, and judge it neceſſary to Ordein, and ſharply to forbid all thoſe who are under our Obedience, and friendly to advertiſe and warn all other Nations who are in Alliance, Friendſhip or Neutrality with this State: And we do Ordain, for<g ref="char:EOLhyphen"/>bid, and warn reſpectively by theſe,</p>
+            <div n="1" type="part">
+               <pb n="2" facs="tcp:192543:2"/>
+               <head>I.</head>
+               <p>FIrſt, That from this time forward none of the Subjects of theſe Lands ſhall tranſport out of theſe Lands, or out of any other Lands, Kingdoms, Places or Towns, carry or tranſport directly or indirectly to any Havens, Iſlands, Towns or Places of <hi>France, England, Scotland</hi> or <hi>Ireland,</hi> or others under the Obedience of the aforeſaid Kings of <hi>France</hi> and <hi>Great Brittany,</hi> any Wares, Goods or Merchandize of what ſort, quality, or nature the ſame may be, none excepted; or alſo to hold in any manner any correſpondence and communion with the Inhabitants of <hi>France</hi> and <hi>England</hi> afore<g ref="char:EOLhyphen"/>ſaid, or thoſe that belong to them, by Letter or otherwiſe tending to the Prejudice of theſe States; and alſo that no man in the World, although Stranger and no Inhabi<g ref="char:EOLhyphen"/>tant of theſe Lands ſhall without theſe Lands tranſgreſs that which is aforeſaid, upon pain to be puniſhed therefore, without any con<g ref="char:EOLhyphen"/>nivence, as an Enemy of theſe States, and further upon the Forfeiture of all the Ships and Goods which we can find, that have been deſigned to be conveyed to <hi>France</hi> or <hi>England</hi> aforeſaid, or other Places aforeſaid, or the value thereof, in caſe they be already carried out, or cannot otherwiſe be come at.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>And whereas according to the duty of all lawful Superiors, we are obliged to protect and defend our good Inhabitants and Sub<g ref="char:EOLhyphen"/>jects with all poſſible means againſt Force and Oppreſſion, we cannot according to common Right and the Practice of all Nati<g ref="char:EOLhyphen"/>ons, be obliged to ſuffer that the aforeſaid Kings, or their Subjects ſhould be ſupplied by any one in the world with ſuch Neceſſa<g ref="char:EOLhyphen"/>ries and Materials wherewith they may ap<g ref="char:EOLhyphen"/>parently be enabled to offend us and our In<g ref="char:EOLhyphen"/>habitants; therefore we would by theſe have all our Allies, Friends and Neutrals, and generally all People and Nations to be ad<g ref="char:EOLhyphen"/>vertiſed, and ſeriouſly intreated and warned, that during the preſent Differences between this State, and the aforeſaid Kings of <hi>France</hi> and <hi>Great Brittany,</hi> that they will not ſend out, carry, or tranſport from any Lands, Kingdoms, Places or Towns, directly or in<g ref="char:EOLhyphen"/>directly to any Havens, Towns or Places of
+<pb n="3" facs="tcp:192543:2"/> 
+                  <hi>France, England, Scotland</hi> or <hi>Ireland,</hi> or others under the obedience of the ſaid Kings. any Ammunition of War, or other Materi<g ref="char:EOLhyphen"/>als uſeful to the ſetting out of Ships, of what name, ſort, quality, condition or nature, ſoever they may be, none excepted, becauſe our meaning is to take and confiſque for good Prize, the aforeſaid Materials for War, and Ships, which ſhall be found to be laden to be carried thither contrary to this our Advertiſement and Ordinance.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>And to prevent the aforeſaid Tranſporta<g ref="char:EOLhyphen"/>tion with the better ſecurity, and to provide in ſpecial that no Victuals, Materials for War or Ships may be carried out of theſe Provinces under falſe pretences: So ſhall no man from henceforward lade in theſe Lands, or cauſe to be ſhip'd, any kind of Victuals, or any of the aforeſaid Materials, to be carried or tranſported to any of the Lands, Towns, or Places of the Allies, Friends or Neutrals of this State, without having firſt obtained the ſpecial conſent of the Court of Admiralty; in whoſe Diſtrict, ſuch Lading or Shipping ſhall be done, and over and above the payment of the Lands Duty, ſhall have put in ſufficient Caution of twice the Value of the Goods to be tranſported, that they ſhall be carried and unladen in no other place than in the King<g ref="char:EOLhyphen"/>doms, Havens, Towns and Places of the aforeſaid Friends, and in no manner directly or indirectly, at any Places of <hi>France, Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> and <hi>Ireland,</hi> or others under the obedience of the aforeſaid Kings, and that within a certain convenient and ſuffici<g ref="char:EOLhyphen"/>ent time to be expreſſed in the Paſs-port, according to the Condition and Diſtance of the Places, to deliver over Certificate, or other ſufficient Evidence to make it appear that all the aforeſaid Victuals or Materials have been unladen and landed in the whole at the Place for which they were declared and entred to be carried to, or in caſe of faileur, and that the aforeſaid expreſſed time ſhall be paſſed, the Surety for the aforeſaid double value of the exported Vi<g ref="char:EOLhyphen"/>ctuals or Materials of War and Shipping ſhall be preſently taken in Execution for the Sums they were taxed and valued at, at the Time of giving the Caution.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="4" facs="tcp:192543:3"/>
+               <head>IV.</head>
+               <p>Further we do order all our Inhabitants and Subjects, and do advertiſe and warn all our Allies, Friends or Neutrals, and gene<g ref="char:EOLhyphen"/>rally all People and Nations that will ſail from this State to any Kingdoms, Lands, Towns or Places lying Eaſt, Weſt, or Northward, or would come from thence hither to keep the Open Sea, becauſe we underſtand and declare by theſe that all the Ships that ſhall be found upon the Coaſt of <hi>France, England, Scotland,</hi> or <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> or other Lands, Iſlands, or Places under the Obedience of the Kings of <hi>France</hi> and <hi>Great Brittany,</hi> and eſpecially within the Banks and ſhallow Waters along their Coaſts; and whereas they cannot but be ſuſpected to have deſigned ſomething a<g ref="char:EOLhyphen"/>gainſt this our Ordinance and Advertiſe<g ref="char:EOLhyphen"/>ment, therefore if they ſhall be laden ei<g ref="char:EOLhyphen"/>ther in whole or part with any Ammuni<g ref="char:EOLhyphen"/>tion of War, or Materials for Ships, they ſhall be taken by the Captains and Offi<g ref="char:EOLhyphen"/>cers of War and Privateers of theſe Lands, and ſent in to be ſentenced by the Lords of the Admiralty in ſuch manner as is ex<g ref="char:EOLhyphen"/>preſſed in the ſecond Article, unleſs the aforeſaid Ship were forced thither by Storm or other great Neceſſity; and ſhall be ſo judged by the Lords of the Admiralty from the Circumſtances which ſhall be made to appear to them.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>And further the better to prevent and defend againſt all deceit which may be de<g ref="char:EOLhyphen"/>ſigned againſt this Ordinance and Adverten<g ref="char:EOLhyphen"/>cy; We charge and command by theſe all Skippers and Merchants being Inhabitants of theſe Lands, or who ſail their Ships and Goods from theſe Lands; and we ad<g ref="char:EOLhyphen"/>vertiſe and warn all others of what Nation ſoever they be, or from whenceſoever they ſhall come, not to lade or cauſe to be laden any Goods, Wares and Merchandize in their Ships, or to carry or cauſe them to be carried otherwiſe than with one ſort of Sea-Brief, due Paſs-port, full Charter-party, Bill of Lading, Freight-Advice, and Convoy-Brief, or ſuch other Diſpatches as are required to the Lading and Exporting of the ſame, according to the Laws and Pla<g ref="char:EOLhyphen"/>cats of the places, where the Goods, Wares, and Merchandize ſhall be laden; becauſe
+<pb n="5" facs="tcp:192543:3"/> we ſhall hold for forfeited, and do from this time forward declare for good Prize all the Ships together with the Goods, Wares, and Merchandize laden in them, in which there ſhall be found more than one Sea-Brief, Charter-party, Double Freight-Briefs, Bills of Lading or other Diſpatches, and likewiſe all the Ships and Goods which ſhall not be furniſhed as they ought with the aforeſaid required Diſpatches.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>To the end that all the Officers and Commanders of the Ships of War, as well of the States as of particulars ſet out by our Authority, may be aſſured that the Ships which they ſhall meet at Sea may be intended for none of the aforeſaid Havens, Towns and Places of <hi>France, England, Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> or others under the obe<g ref="char:EOLhyphen"/>dience of the aforeſaid Kings of <hi>France</hi> and <hi>Great Britain,</hi> with Ammunition of War or Materials for Shipping, the aforeſaid Captains may ſeize all Ships in Sea of whom they have any Suſpicion, and re<g ref="char:EOLhyphen"/>quire of them their Sea-Briefs, Paſs-ports, Charter-parties, and Bills of Lading; for evidence to what Place the Ship belongs, where and at what Place the Lading was made, whereof the Lading conſiſts, and at what Place it was to be unladen; which having been ſhewn them, and it being found that the aforeſaid Ships were not intended with any Materials of War or Shipping for any Haven or Place under the Command of the aforeſaid Kings of <hi>France</hi> or <hi>Great Brittain,</hi> they ſhall let the ſaid Ships paſs free without hinderance; but if the contrary ſhall be found by the diſpatch<g ref="char:EOLhyphen"/>es, or otherwiſe; they ſhall bring up ſuch Ships, with their Lading, in ſure Cuſto<g ref="char:EOLhyphen"/>dy, and take into their hands, all the Diſ<g ref="char:EOLhyphen"/>patches they found in the ſaid Ships, and which ſhall be ſhewn them, &amp; ſhall cauſe to be put in writing, in the beſt form; alſo what the Ships and Sea-men ſhall have at that time declared, both in regard of the inten<g ref="char:EOLhyphen"/>ded Voyage, and alſo concerning the condi<g ref="char:EOLhyphen"/>tion of the Ship, and Lading; and ſhall cauſe the Ships to ſign it, that it may be ſent up, and delivered over, together with the afore<g ref="char:EOLhyphen"/>ſaid diſpatches found; and the Ship, and her Lading, to the Lords of that Admiralty from whence the taker was ſet forth.</p>
+            </div>
+            <div n="7" type="part">
+               <pb n="6" facs="tcp:192543:4"/>
+               <head>VII.</head>
+               <p>Further it is alſo our meaning, that all the penalties here before decreed, ſhall take effect, and be executed againſt our Inhabitants Offenders, whether they be Merchants, Shippers or others, whoe<g ref="char:EOLhyphen"/>ver they may be, with Confiſcation of the Ships, and the Goods laden in them; or a part of them in the caſe afore reci<g ref="char:EOLhyphen"/>ted, or otherwiſe, if they be not to be come at; with a pecuniary Fine to the value of them; each in their reſpect; in caſe of their return into theſe Lands: or, if otherwiſe the opportunity ſhall hap<g ref="char:EOLhyphen"/>pen, that it ſhall be underſtood, and made appear, that they have acted contrary to this our Advertiſement, and Order, in any point, they ſhall be puniſhed, as if they had been taken in the fact, and brought in from the Sea, by the aforeſaid Ships of War; or otherwiſe arreſted, and taken here at Land, by other of the Land Officers.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>And to the end, that no juſt reaſon of Complaint may be given to any Kings, Republicks, Princes, Potentates, or Towns, in alliance with theſe States, by the Exe<g ref="char:EOLhyphen"/>cution of this our Ordinance, and Ad<g ref="char:EOLhyphen"/>vertiſement; We do charge and command very expreſly by theſe, all our chief, and other Officers at Sea, as well of Ships of War of the State; as of particular Ships ſet out for War by our direction, to regu<g ref="char:EOLhyphen"/>late themſelves punctually, according to the Obligations, and Treaties concerning this thing, which are already made, or ſhall be made by us, with other Kings, Republicks, Princes, Potentates, and Towns; ordering to that purpoſe, our Lords of the Admiral<g ref="char:EOLhyphen"/>ty particularly to advertiſe, and inſtruct, as they ought to do, all the Captains of War thereof, that do ſail out their reſpective Di<g ref="char:EOLhyphen"/>ſtricts.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>The Judicature of the Tranſgreſſion of this our Ordinance, ſhall belong to the Court of Admiralty, in whoſe Diſtrict the Offence ſhall be diſcovered, or from whence the Captain that took the Ship in Sea did ſet forth.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>But in caſe the ſaid Tranſgreſſors ſhall not be found in the fact, but may afterwards be accuſed thereof, then the Cogniſance there<g ref="char:EOLhyphen"/>of ſhall belong to the Lords of the Admi<g ref="char:EOLhyphen"/>ralty, or the ordinary Judges; before which
+<pb n="7" facs="tcp:192543:4"/> the Suit ſhall be firſt commenced; and to the end that all the Officers, and alſo all o<g ref="char:EOLhyphen"/>thers, who lay the welfare of this State to heart, and are enemies to ſuch Contraven<g ref="char:EOLhyphen"/>tions, may the more actually endeavour, that this Ordinance may every where, and by e<g ref="char:EOLhyphen"/>very one be punctually obſerved, and the Offenders puniſhed according to the Con<g ref="char:EOLhyphen"/>tents hereof to the example of others; all the Moneys that ſhall come to be raiſed by Confiſcation or otherwiſe out of this our Ordinance; ſhall be applyed as uſually all Fines, Mulcts, and Confiſcations, by the Pla<g ref="char:EOLhyphen"/>cats of their reſpective Provinces of theſe U<g ref="char:EOLhyphen"/>nited Netherlands; are applyed and diſtri<g ref="char:EOLhyphen"/>buted; to wit, one third part to the profit of the taker, or Informer; whether he be a ſworn Officer of the Land, or not; one third part to the profit of the Officer, who ſhall make the Challenge and Execution; and the re<g ref="char:EOLhyphen"/>maining third part to the profit of the Pub<g ref="char:EOLhyphen"/>lick.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>But what concerns the Ships and Goods, which ſhall be taken at Sea, by any of the Ships of War of this State, or by any parti<g ref="char:EOLhyphen"/>culars, with Commiſſion of Repriſal, and by them brought up, upon account of Tranſ<g ref="char:EOLhyphen"/>greſſion againſt this our Ordinance, and Ad<g ref="char:EOLhyphen"/>vertiſement; and upon the Proſecution, Confiſcated, and declared good Prize, by the Lords of the Admiralty, the ſharing of that ſhall be according to the Inſtructions, Placats and Ordinances thereof, heretofore made, or to be made.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>To the end that all Ships, and Goods, which, for the Offences committed againſt theſe our Ordinances and Advertiſements, ſhall be taken, kept and ſent up, may be duely deliverd over into the hands of the ſaid Lords of the Admiralty, We do by theſe very expreſly command, that all the Takers of the ſame, and all others whom it may concern, ſhall regulate themſelves pre<g ref="char:EOLhyphen"/>ciſely, according to our Placat of <hi>Decemb.</hi> 1, 1640. made againſt the diſorderly plun<g ref="char:EOLhyphen"/>dering and taking of Ships, with warning, that the Penalties eſtabliſhed by the ſaid Placat, ſhall be ſurely executed againſt all thoſe who ſhall have attempted any thing contrary to this Prohibition.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>And to the end that we may prevent on the one ſide, that the loſs which muſt fall upon the Offenders againſt this Ordinanee, by the Confiſcation of their Ships, and
+<pb n="8" facs="tcp:192543:5"/> Goods, may not come, by means of aſſu<g ref="char:EOLhyphen"/>rance, to redound to the loſs of any the In<g ref="char:EOLhyphen"/>habitants of theſe Provinces; and that on the other ſide, the faculty of the <hi>French</hi> and <hi>Engliſh</hi> Navigation and Commerce may, as much as poſſible, be diſturbed. So it is, that we do very expreſly ordain by theſe, not only that none of the Inhabitants afore<g ref="char:EOLhyphen"/>ſaid ſhall further any Goods, or Ships, be<g ref="char:EOLhyphen"/>longing to the Subjects of the aforeſaid Kings of <hi>France</hi> and <hi>Great Britain,</hi> nor aſ<g ref="char:EOLhyphen"/>ſure directly or indirectly, by themſelves or any other, either within theſe Lands or with<g ref="char:EOLhyphen"/>out, any Ships, and Goods going or fraigh<g ref="char:EOLhyphen"/>ted to any Haven, Towns, or Places of <hi>France</hi> and <hi>England, Scotland, Ireland,</hi> or o<g ref="char:EOLhyphen"/>thers, under the Obedience of the aforeſaid Kings, or coming from the ſaid Havens, Towns, or Places; nor ſhall they give or take any Ranverſals, thereby to make this our Placat Illuſory, whether it be directly or indirectly, or under what pretence ſoe<g ref="char:EOLhyphen"/>ver it ſhall be done, under the penalty that there ſhall be forfeited ſuch ſum as ſhall be aſſured by the Aſſurers; and that the ſame ſhall take place, and full effect, as well in regard of making the aſſurance, as of giving the Ranverſal to be applyed, and exe<g ref="char:EOLhyphen"/>cuted as aforeſaid; and the Officers that ſhall be found to have been negligent there<g ref="char:EOLhyphen"/>in, ſhall be arbitrarily puniſhed, both by being deprived of their Service or other<g ref="char:EOLhyphen"/>wiſe, as ſhall be found to belong to the con<g ref="char:EOLhyphen"/>dition of the offence.</p>
+               <p>
+                  <hi>And to the end that no man may pretend hereafter ignorance hereof; We deſire, and intreat the Lords, the States, the Comittee of Council, the depu<g ref="char:EOLhyphen"/>ted States of the reſpective Provinces of <hi>Guelder<g ref="char:EOLhyphen"/>land,</hi> and the Earldom of <hi>Zutphen, Holland,</hi> and Weſt-<hi>Friezland, Zealand, Utvitcht, Friezland, Overyſſell,</hi> toge<g ref="char:EOLhyphen"/>ther with the Towns of <hi>Groningen,</hi> and <hi>Ommeland</hi> and all other Juſtices, and Officers of the ſame; That they forthwith every where make known this our Ordinance, by publiſhing and affixing it in all places where it ſhall be needful, and where uſually ſuch publication and af<g ref="char:EOLhyphen"/>fixing is done; We charge, and command further the Lords of the Admiralty, the Advocate fiſchal, to<g ref="char:EOLhyphen"/>gether with the Admirals, Vice-Admirals, Captains, Officers, and Commanders; as alſo the Commiſſa<g ref="char:EOLhyphen"/>ries, and Searchers, as well in the Sea-ports, as elſe<g ref="char:EOLhyphen"/>where, to obſerve, and cauſe to be obſerved, this our Ordinance, proceeding and cauſing proceeding to be made againſt the Offenders of the ſame, without conni<g ref="char:EOLhyphen"/>vance, favour, diſſimulation, or colluſion; for we have found this to be needful for the Service of the Land. This done, eſtabliſhed, renewed, and exemplified in the Aſſembly of the aforenamed States General, in the <hi>Hague</hi> the 14th. of <hi>April</hi> 1672. atteſted <hi>J. Van Gent, Vt.</hi> under-written by the Order of the ſame, ſigned <hi>Gaſp. Fagel,</hi> upon the ſpace was impreſſed a Seal of their High and Mightineſs upon a red Wafer cover'd with a jag'd Paper.</hi>
+               </p>
+            </div>
+         </div>
+         <div xml:lang="dut" type="text">
+            <pb n="1" facs="tcp:192543:1" rendition="simple:additions"/>
+            <head>PLACCAET, Van de Hooge Mogende Heeren Staten Generael der Vereenichde Neder<g ref="char:EOLhyphen"/>landen, houdende ſcherp verboodt jegens de Ingeſetenen der felver Landen; ende voorts raeckende de Navigatie ende Commercie van de Neutralen op de Havenen van Vankrijck ende Engelandt; als mede de Waren van Contrebande, ende de Aſſeurantien van Schepen ende Goederen de Subjecten van de Koningen van Vranckeriick ende van Groot Britannien toe-behoor-ende.</head>
+            <p>DE Staten Generael der Vereenigde Nederlanden, Allen den geenen die deſe jegenwoordige ſullen ſten ofte hooren leeſen, Saluyt. <hi>Doen te weren,</hi> Dat nademael de Koningen van Vran<g ref="char:EOLhyphen"/>kriick ende van Groot Brittaunien goedt ge<g ref="char:EOLhyphen"/>vonden hebben ons buyten alle recht en redenen den Oorlg te verklaren en aen te doen: Wy derhalven genootſaeckt ziin geworden, naer de Wet der nature, ende 't recht der Volckeren, de Wapenen aen te nemen, ſoo tot afgeperſte teghenſtant van de voorſz vyandtlijcke procedu<g ref="char:EOLhyphen"/>ren, als tot redres ende reparatie van de veron<g ref="char:EOLhyphen"/>gelijckingen en ſchaden daer door onrechtvaer<g ref="char:EOLhyphen"/>deleck geleden, ende dien volgende van onſer zyde mede tegens hoogſtgemelte Koningen te treden in openbare rupture. Ende nademael Wy ten voorſz eynde, ende wel voornamentlick om ſoo veel in Ons is, alle verdere af breuck van die zyde voor te komen, verobligeert en gehonden ziin, naer Ons bermogen, ende ſoo berre het buyten verongelijckinge van onſe Geallieerden, Vrunden ende Neutralen, naer 't Volckeren recht, geſchieden kan, hoogſt-ghe<g ref="char:EOLhyphen"/>melte Koningen te benemen ende te verhinde<g ref="char:EOLhyphen"/>ren de commoditeyten ende behoeften, daer me<g ref="char:EOLhyphen"/>de de ſelve den Staet deſer Landen, ende de goede Ingeſetenen van dien verder af breuck ſoude konen doen. <hi>SOO IST,</hi> Dat Wy goet<g ref="char:EOLhyphen"/>gevonden ende noodich geacht hebben, allen den geenen die onder onſe gehoorſaemheydt ziin ſta<g ref="char:EOLhyphen"/>ende, te ordonneren, ende wel ſcherpelick te verbieden, oock in 't vrundtlick 't adverteren ende te waerſchouwen alle andere Natien met deſen Staet in verbondt, vrundtſchap ofte neu<g ref="char:EOLhyphen"/>traliteyt ſtaende, gelijck Wy ordonneren, ver<g ref="char:EOLhyphen"/>bieden, ende waerſchouwen reſpective by de<g ref="char:EOLhyphen"/>ſen.</p>
+            <div n="1" type="part">
+               <pb n="2" facs="tcp:192543:2"/>
+               <head>I.</head>
+               <p>EErſtelick, dat van nu voortaen niemant van d' Ingeſetenen deſer Landen hem ſal hebben te vervorderen uyt deſe Landen, of oock uyt eenige andere Landen, Koningriicken, Plaetſen ofte Steden te vervoeren, ofte tranſ<g ref="char:EOLhyphen"/>porteren, directelick ofte indirectelick, na eeni<g ref="char:EOLhyphen"/>ge Havenen, Eylanden, Steden ofte Plaetſen van Vranckrijck, Engelandt, Schetlant ofte Yerlandt, ofte anderen, onder de gehoor<g ref="char:EOLhyphen"/>ſaemhendt van de meer-hoogſt-gem: Ko<g ref="char:EOLhyphen"/>ningen van Vrankrijck en Groot Brittannien ſtaende, eenige Waren, Goederen ofte Koop<g ref="char:EOLhyphen"/>manſcoppen, van wat ſoorte, qualiteyt ofte nature de ſelve oock ſouden mogen weſen, geene uytgeſondert, ofte oock eenige cor<g ref="char:EOLhyphen"/>reſpondentie ende gemeenſchap met d' In<g ref="char:EOLhyphen"/>woonderen van Vranckriick ende Engelandt voornoempt, ofte hare onderhoorigen, door Brieven ofte anderſints, ſtreckende tot na<g ref="char:EOLhyphen"/>deel van deſen Staet, te houden, in eeniger manieren. Dat oock niemant ter Werelt, al hoe wel een Vreemdelingh, ende geen Ingeſetenen deſer Landen zijnde, hem 't geene voorſz is, uyt deſe Landen ſal hebben t'onderwinden, op poene van daer over als Vnanden van den Staet, ſonder eenige conni<g ref="char:EOLhyphen"/>ventie gheſtraft te worden, ende voorts op verbeurte van alle de Schepen ende Goede<g ref="char:EOLhyphen"/>ren, die men bevinden ſal, dat gepoocht wor<g ref="char:EOLhyphen"/>den naer Vranckrijck ofte Engelandt voor<g ref="char:EOLhyphen"/>noemt, ofte andere Plaetſen als vooren, ber<g ref="char:EOLhyphen"/>voert de worden, ofte de waerde van dien, by ſoo verre de ſelve albereydts uytgevoert, ofte anderſints niet te bekomen ſullen weſen.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>Ende nademael Wy uaer de plicht van alle wettige Oderheden, als ſchuldigh ziinde, hare goede Ingeſetenen ende Onderdanen, met alle moghelicke middelen voor gheweldt ende overlaſt te behoeden, ende te beſcher<g ref="char:EOLhyphen"/>men, niet en konnen oock volgens het gemeyne recht, ende de practijcque van alle Volckeren, niet gehouden zyn te ghedogen, dat de hooghſt<g ref="char:EOLhyphen"/>gedachte Koningen ofte haer Subjecten, van yemandt ter Wereldt werden geſuppediteert ſoodanighe behoeften van Materialen, daer mede de ſelve evidentelick ſoude werden ghe<g ref="char:EOLhyphen"/>ſterckt, omme ons, ende onſe goede Ingeſe<g ref="char:EOLhyphen"/>tenen te beledigen, Soo willen Wy by de<g ref="char:EOLhyphen"/>ſen allen Onſe Geallieerden, Vrunden ende Neutralen, ende generalick alle Volckeren ende Natien gheadverteert, ende wel ern<g ref="char:EOLhyphen"/>ſtigh verſoeht ende vermaendt hebben, haer niet te willen vervorderen, geduyrende de jegenwoordige differenten tuſſchen deſen Staet ende de hooghſt-ghedachte Koningen van Vran<g ref="char:EOLhyphen"/>ckrijck ende Groot Brittannien opgereſen, te voeren ofte te tranſporteren uyt eenige Landen, Koningrijcken, Plaetſen of Steden, directelick ofte indirectelick, na eenige Ha<g ref="char:EOLhyphen"/>venen,
+<pb n="3" facs="tcp:192543:2"/> Steden ofte Plaetſen van Vranckrijck, Engelandt, Schotlandt ofte Yerlandt, ofte anderen, onder 't gebiedt van de meer-hooghſt<g ref="char:EOLhyphen"/>gemelte Coningen ſtaende, eenige Munitie van Oorloge, ofte eenige Materialen, dien<g ref="char:EOLhyphen"/>ende tot uytruſtinge van Schepen, hoe die genaemt, van wat ſoorte, qualiteyt, conditie ofte nature die oock ſouden mogen ziin, gee<g ref="char:EOLhyphen"/>nige van de ſelve uytgheſondert, alſoo Wy ghemeynt ziin voor goeden prinſe ende ver<g ref="char:EOLhyphen"/>beurt te houden de voorſz Oorlogh ende Scheeps-behoeften, die contrarie deſe onſe ad<g ref="char:EOLhyphen"/>vertentie en ordonnantie bevonden ſullen wer<g ref="char:EOLhyphen"/>den geladen te ziin, om derwaerts gevoert te worden.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>Ende omme de voorſz toevoer des te beter met ſeeckerheydt te beletten, ende inſonder<g ref="char:EOLhyphen"/>heydt te voorſien, dat uyt deſe Provincien, on<g ref="char:EOLhyphen"/>der valſche pretexten geen toevoer als boven van levens middelen, Oorlogh ofte Scheeps-behoeften en kome te geſchieden: Soo en ſal niemandt voortaen hier te Lande moghen la<g ref="char:EOLhyphen"/>den, ofte doen ſchepen eenigerhande Vivres, ofte eenige van de voorſz behoeften, omme na eenige Landen, Steden, ofte Plaetſen van de Geallieerden, Vrunden ofte Neutralen van deſen Staet getranſporteert, ofte vervoert te worden, ſonder daer toe alvooren te hebben be<g ref="char:EOLhyphen"/>komen ſpeciael conſent van de Raden ter Ad<g ref="char:EOLhyphen"/>miraliteyt, in welckers diſtricte ſoodanige la<g ref="char:EOLhyphen"/>dinge ofte inſchepinge geſchieden ſal; ende boven de betalinge van s' Landts gerechtighe<g ref="char:EOLhyphen"/>den, de ſullen hebben geſteldt ſuffiſante cautie voor tweemael de waerde van de uyt te voe<g ref="char:EOLhyphen"/>ren Goederen, dat die op geen andere, als op der voorſchreve Vrunden Rijcken, Havenen, Steden ende Plaetſen, ende geenſints directe<g ref="char:EOLhyphen"/>lick of indirectelick, op eenige Plaetſen van Vranckrijck, Engelandt, Schotlandt, Yer<g ref="char:EOLhyphen"/>landt, ofte anderen onder 't gebiedt van de hooghſt-ghemelte Coningen ziinde, ſullen wor<g ref="char:EOLhyphen"/>den gevoert, ende geloſt, ende dat binnen ſee<g ref="char:EOLhyphen"/>ckeren tijdt in het daer toe te veerleenen Paſ<g ref="char:EOLhyphen"/>port, na gelegentheydt ende diſtantie van de plaetſen, te expreſſeren, behoorlick ende den Rechten ghenoegh ziinde, by over te leveren Certificatien, ofte andere ghenoeghſame be<g ref="char:EOLhyphen"/>wyſen, ſullen doen blijcken dat alle de voorſz Vivres ofte behoeften in 't geheel, ter plaetſe daer op die verklaerdt ende aenge geven zijn, vervoert te ſullen worden, geloſt ende aen Landt opgeſlagen ſullen weſen, ofte dat by gebreecke van dien, ende den voorſz ge-expreſſeerden tijdt overſtreecken zijnde, de Cautionaris voor de voorſz dubbelde waerde van de uytghevoerde Vivres, ofte Oorlogh ende Scheeps-behoeften ſulcks als die ten tyde van de te ſtellen cautie ghetaxeert ende ghewaerdeert ſullen ziin, aen<g ref="char:EOLhyphen"/>ſtondts ge-executeert ſal worden.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="4" facs="tcp:192543:3"/>
+               <head>IV.</head>
+               <p>Ordonneren voorts allen onſen Ingheſete<g ref="char:EOLhyphen"/>nen ende Onderdanen, adverteren ende verma<g ref="char:EOLhyphen"/>nen allen onſen Geallieerden, Vrunden ofte Neutralen, ende generalick alle Volckeren ende Natien, willende varen na eenige Kijcken, Landen, Steden ofte Plaetſen van deſen Staet, Ooſt, Weſt ofte Noordtwa<g ref="char:EOLhyphen"/>erts gelegen, ofte die van daer herwaerts aen ſouden willen komen, te kieſen ende te houden de ruyme Zée, alſoo Wy verſtaen ende verklaren by deſen, dat alle Schepen die op de Kuſten van Vranckrijck, Engelandt, Schotlandt, ofte Yerlandt, ofte andere Lan<g ref="char:EOLhyphen"/>den, Eylanden, ende Plaetſen, onder 't gebiedt van de hoogſt-gemelte Koningen van Vrankrijck ende van Groot Brittannien zijn<g ref="char:EOLhyphen"/>de, ende voornamentlick binnen de Bancken ende ondiepten langhs de ſelve gelegen, gevonden ſullen worden, ende die alſoo niet buyten ſuſpitie ſullen zijn van tegens deſe onſe Ordonnantie ende advertentie yet voor te hebben, ſoo wannéer die in 't gheheel ofte ten deele met eenige Ammunitie van Oor<g ref="char:EOLhyphen"/>loge ofte Scheeps-behoeften geladen ſullen ziin, by de Capiteynen ende andere Offici<g ref="char:EOLhyphen"/>eren van Oorloge, oock Commiſſie-vaerders deſer Landen aengheaelt, ende opgheſonden ſullen worden, omme daer over by de Ra<g ref="char:EOLhyphen"/>den ter Admiraliteyt te worden geſententieert in maniere als in 't twede Articul hier vooren ſtaet ghe-expreſſeert, ten ware nochtans de ſelve Schepen aldaer ghedreven ende gera<g ref="char:EOLhyphen"/>eckt mochten zijn door ſtorm, ofte andere ſwaren noodt, ende dat het ſelve by de op<g ref="char:EOLhyphen"/>gemelte Raden ter Admiraliteyt uyt de cir<g ref="char:EOLhyphen"/>cumſtantien, in dier voegen opgenomen, ende geoordeelt ſal konnen worden.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>En om wyders te beter alle bedrog, 't welk tegens deſe Ordonnantie ende adverten<g ref="char:EOLhyphen"/>tie voorgenomen ſoude mogen worden, voor te komen, ende te verhoeden; Belaſten ende beveelen Wy midts deſen alle Schippers ende Koopluyden, Ingheſetenen deſer Landen zijn<g ref="char:EOLhyphen"/>de, ofte hunne Schepen ende Goederen uyt deſe Landen uytvoerende; adverteren ende vermanen voorts alle anderen, van wat Na<g ref="char:EOLhyphen"/>tie die oock zijn, ofte van waer die komen ſullen, egeene Goederen, Waren ofte Koop<g ref="char:EOLhyphen"/>manſchappen in hare Schepen te laden, ofte te doen laden, de ſelve te vervoeren, ofte doen vervoeren, anders dan met eender<g ref="char:EOLhyphen"/>hande Zée-brieven, gehoorliicke Paſporten, volkomen Certe-portyen, Cognoſſementen, Vracht, Advis ende Convoy-brieven, ofte diergelijcke andere beſcheyden, als na de Wetten ende Placcaten van de Plaetſen daer de Goederen, Waren ende Coopman<g ref="char:EOLhyphen"/>ſchappen, ingeladen ſullen zijn, tot der ſel<g ref="char:EOLhyphen"/>ver inladinghe ende vervoeringhe worden ge<g ref="char:EOLhyphen"/>requiereert, alſoo wy voor verbeurf ſullen
+<pb n="5" facs="tcp:192543:3"/> houden, ende van nu af aen voor goeden prinſe verklaren alle de Schepen, midtſga<g ref="char:EOLhyphen"/>ders d'ingeladen Goederen, Waren ende Coopmanſchappen, daer van dat meer als een Zee-brief, Certe partye, dobbele Vracht<g ref="char:EOLhyphen"/>brieven, Cognoſcementen, of andere beſchey<g ref="char:EOLhyphen"/>den ghevonden ſullen worden, midtſgaders oock alle de Schepen ende Goederen die met de voor-verhaelde gerequiererde beſcheyden niet ua behooren verſten ſullen weſen.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI</head>
+               <p>Ten eynde oock alle de Officieren ende Bevelhebberen van Schepen van Oorloge, ſoo van den Staet, als van particulieren op onſe beſtellinge uytgeruſt, verſeeckert mogen zijn, dat de Schepen die ſy in Zee ſullen komen te rencontreren, op gene der voorſz Havenen, Steden ende Plaetſen van Vran<g ref="char:EOLhyphen"/>ckriick, Engelandt, Schotlandt ende Yre<g ref="char:EOLhyphen"/>landt, ofte anderen onder 't ghebiedt van de hooghſt-gemelte Coninghen van Vranckrijck ende van Groot Brittannien ſtaende, met eenige Ammunitie van Oorloge ofte Scheeps-behoeften, mogen hebben gemunt, Soo ſul<g ref="char:EOLhyphen"/>len de voornoemde Capiteynen in Zee alle Schepen, daer op eenige ſuſpitie ſal vallen, mogen aendoen, ende de ſelve afvorderen hare Zee-brieven, Paſſeporten, Certe-partyen ende Cognoſcementen, tot blijck waer het Schip ſoude mogen t'huys behooren, waer, ende op wat plaetſe de ladinge zy geſchiet, waer in des ſelfs ladinge beſtaet, ende op wat plaetſe de ontladinge ſal hebben te gheſt<g ref="char:EOLunhyphen"/>chieden, welcke aen haer vertoont ziinde, ende bevonden weſende, dat de voorſz Sche<g ref="char:EOLhyphen"/>pen met geeve Oorlogh ofte Scheeps behoef<g ref="char:EOLhyphen"/>ten naer eenige Havenen of Plaetſen onder 't gebiedt van de hooghſt gemelte Coningen van Vranckrijck ende van Groot Brittan<g ref="char:EOLhyphen"/>nien zijnde, hebben gemunt, ſullen ſy de ſelve vry ende onverhindert lateen paſſeren, maer ſoo het contrarie van dien by de ſelve beſchey<g ref="char:EOLhyphen"/>den, ofte anderſints mochte worden bevonden, ſoo ſullen ſy de ſoodanige Scheppen, met hare ingeladene Goederen, in goede verſeeckeringe hebben op te brengen, ende on der haer bewa<g ref="char:EOLhyphen"/>ringe t'aenvaerden alle de beſcheyden, die in de ſelve Schepen gevonden, ende aen haer vertoont ſullen zijn, oock 't geen de Schipper ende 't vorder Scheeps Volck, ſoo ten reguarde van haer voorbebbende reyſe, als oock aenga<g ref="char:EOLhyphen"/>ende de gelegentheydt van't Schip ende la<g ref="char:EOLhyphen"/>dinge, te dier tijdt ſullen hebben verklaerdt in de beſte forme by geſcrifte doen ſtellen, ende by den Schipper doen onderteeckenen, omme nevens de voorſz ghevonden beſcheyden, met het Schip, ende des ſelfs ladinge, aen de Raden ter Admiraliteyt daer den Veroberaer uytgevaren ſal zjin, opgeſonden ende overge<g ref="char:EOLhyphen"/>levert te worden.</p>
+            </div>
+            <div n="7" type="part">
+               <pb n="6" facs="tcp:192543:4"/>
+               <head>VII.</head>
+               <p>Vorders is mede onſe meyninge, dat oock alle de poenen bier vooren geſtatueert, effect forteren ende ge-executeert worden ſullen, tegens onſe Ingeſetenen, Overtreders, 'te zy Koopluyden, Schippers ofte andere, wie<g ref="char:EOLhyphen"/>de ſelve oock ſouden mogen weſen, met con<g ref="char:EOLhyphen"/>fiſcatie van de Schephen, en van de ingela<g ref="char:EOLhyphen"/>den Goederen, ofte een gedeelte van dien an voeghen hier vooren verhaeldt, ofte an, derſints ſoo de ſelve niet voor hauden ſullen zijn, met pecuniele boeten, ter concurren<g ref="char:EOLhyphen"/>tie van de waerde van dien, elcx in hun reguard, in ghevalle t'haerder aenkomſte in deſe Landen, ofte oock anderſints de <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>legentheydt daer toe gebooren zijnde, ſal vernomen ende beweſen werden, dat ſy de<g ref="char:EOLhyphen"/>ſe onſe advertentie ende Ordonnantie in ee<g ref="char:EOLhyphen"/>nige poincten ſullen hebben gecontravenieert, even geliick of ſy op 't feyt behonden, ende by de voorſz Schepen van Oorloge daer over uytter Zee opgebracht, of anderſints hier te Lande by andere 's Landts Officie<g ref="char:EOLhyphen"/>ren achterhaelt ende betrapt waren gewor<g ref="char:EOLhyphen"/>den.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>Ende ten eynde door d'executie van deſe onſe Ordonnantie ende advertentie geene rech<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>veerdige redenen van klachten mogen werden gegeven aen eenige Coningen, Re<g ref="char:EOLhyphen"/>publijcquen, Princen, Potentaten ofte Ste<g ref="char:EOLhyphen"/>den, met deſen Staer in Alliantie ofte Verbondt ſtaende, ſoo belaſten ende beveelen Wy wel expreſſelick by deſen alle onſe Hooften ende andere Officieren ter Zee, ſoo over Schepen van Oorloge van den Staet, als over Schepen by particulieren op onſer beſtellinge ten Oorlog uytgeruſt, geſteldt, haer punctuelick te reguleren naer de Verbonden ende Tractaten by ons deſen aengaende met andere Koningen, Repub<g ref="char:EOLhyphen"/>lijcquen, Princen, Potentaten ende Ste<g ref="char:EOLhyphen"/>den albereydts gemaeckt, ofte noch te mae<g ref="char:EOLhyphen"/>cken. Ordonnerende ten ſelven eynde onſe Raden ter Admiraliteyt, alle Capiteynen van Oorloge, uyt hare reſpective diſtricten uytvarende, daer van particulierlick te adverte<g ref="char:EOLhyphen"/>ren, ende t' inſtrueren, als naer behooren.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>Ende ſalde judicature over de tranſgreſſie deſer onſer Ordonnante toekomen de Raden ter Admiraliteyt, in welckers diſtricte de contraventien ſullen worden overdeckt, of wel de Capiteynen die d'acterhalinge in Zee ſullen komen te doen, uyt-gevaren ſullen zijn.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>Doch by ſoo verre de voorſz Tranſgreſſeurs niet op het feyt bevonden, maer naemaels daer over geaccuſeert mochten worden ſal als dan de kenniſſe daer af toekomen de Raden van de Admiraliteyt, ofte ordinaris Rechters, voor den
+<pb n="7" facs="tcp:192543:4"/> welken de ſelve eerſt in recht betrocken ſullen worden. Ende en eynde alle de Officieren midt<g ref="char:EOLhyphen"/>ſgaders allen anderen die den welſtandt van de<g ref="char:EOLhyphen"/>ſen Staet ter herte ſoude mogen gaen, en Vy<g ref="char:EOLhyphen"/>anden van de ſocdanige contraventien ziin, des te blytiger mogen letten, dat deſe Ordannantie oock alomme, ende vy een yeder punctuelick worde geobſerveert ende de Contraventeurs na den inhouden deſer, andere ten exemple geſtraft, Soo ſullen alle de peninghen, die by confiſcatie, als anderſints, uyt deſe onſe Ordonnantie ko<g ref="char:EOLhyphen"/>men te reſulteren geappliceert werden, ſoo als gewconlick alle penen, mulcten ende confiſcati<g ref="char:EOLhyphen"/>en, by Placcaten vande reſpective Provintien deſer Vereenighde Nederlanden, geappliceert ende verdeylt werden, te weten<g ref="char:punc">▪</g> een derde part ten profijite van den Aenhoelder ofte Aenbren<g ref="char:EOLhyphen"/>ger, 'tzy de ſelve in eedt ende bedieninge van 't Landt ſoude mogen zijn, oſte niet, een derde<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>part ten profijte van den Officier die de calan<g ref="char:EOLhyphen"/>gie ende executie ſal hebben gedaen, ende het re<g ref="char:EOLhyphen"/>ſterende dehde-part ten profijte van de gemeene ſaecke.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>Maer belangende de Schepen ende Goederen, die by eenige Schepen van Oorloge van deſen Staet, ofte van éenighe particuliere Commiſſie-ofte Retorſie-vaerders, in Zee achterhaelt ende van daer, ter ſaecke van contr ventien teghens deſe onſe Ordonnontie ende advertentie begaen, opgebracht, ende vervolgens door de ghemelte Raden ter Admiraliteyt verbeurt, en van goeden prinſe vertklaert ſullen worden, daer van ſal de ver deylinge geſchieden, volgens d' Inſtructien, Placcaten ende Oordonnantien daer van hier bevoorens gemaeckt, oftenoch te macchen.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>Ten eynde oock alle Schepen ende Goederen, die ter oorſaecke van de contraventien tegens deſe onſe Ordonnantien ende advertentie be<g ref="char:EOLhyphen"/>gaen ſullen werden, achterhaelt, aenghehouden, ende hier te Lande oyghebracht aen handen van de gemelte Raden behoorlick overgelevert mogen werden, ſoo laſten wy by deſen wel expreſſelick, dat de Aenhaeldees van de ſelve ſich preciſe ſul<g ref="char:EOLhyphen"/>len hebben te reguleren, oock alle die het ſelve aengaen mochte, doen reguleren na onſen Plac<g ref="char:EOLhyphen"/>cate op den eerſten December 1640. tegens het onordentelick plonderen ende veroveren van ſoodanige Schepen ge-emaneerr, met waer<g ref="char:EOLhyphen"/>ſcouwinge, dat de poenen by het voorſz Placca<g ref="char:EOLhyphen"/>et geſtatueert, ſeverliick ſullen werden ge-exe<g ref="char:EOLhyphen"/>cuteert, tegens alle de géene die contrarie het voorſz Verbodt yets geattenteert ſullen heb<g ref="char:EOLhyphen"/>ben.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>Ende ten eynde aen de eene zyde mach wor<g ref="char:EOLhyphen"/>den voorgekomen, dat de ſchade die by confiſca<g ref="char:EOLhyphen"/>tie van de voorſz Schepen ende Goederen op de Contraventeurs van deſe onſe Ordonnantie
+<pb n="8" facs="tcp:192543:5"/> moet vallen, niet door middel van aſſeurantie en kome te redunderen, tot ſchade van eenige andere Ingeſetenen deſer Provintien, ende dat aen de ander zyde de faculteyt van de Franſche ende Engelſche Navigatie ende Commercie, ſoo véel doenlick werde beſnoeyt. <hi>SOO IST,</hi> Dat wy wel expreſſelick ordonneren by deſen, niet alleen dat ſich niemandt van de Ingheſe<g ref="char:EOLhyphen"/>tenen voornoemt en ſal hebben te bevorderen éenighe Goederen ofte Schepen de Subjecten van de hooghſt gemelte Koningen van Vrankrijck ende van Groot Brittannien toe behoorende, nochte oock éenige Schepen ende Goederen ga<g ref="char:EOLhyphen"/>ende, ofte bevracht naer eenige Havenen, Sie<g ref="char:EOLhyphen"/>den ofte Plaetſen van Vrankhijck ende Goge<g ref="char:EOLhyphen"/>landt, Scotlandt, Yerlandt ofte anderen, onder 't gehiedt van de hoogſt gemelte Koningen ſtaende ofte oock van de felve Havenen, Ste<g ref="char:EOLhyphen"/>den ofte Plaetſen komende te veraſſeureren, di<g ref="char:EOLhyphen"/>rectelick ofte indirectelick, ſelver of door yemandt anders higher te Lande, of daer buyten, op wat maniere het ſelve oock ſoude mogen geſchieden, nemaer oock het geven ende ontfangen van ren<g ref="char:EOLhyphen"/>verſalen, om daer door deſen onſen Placcate il<g ref="char:EOLhyphen"/>luſoir te maecken, 't zy mede directelick of indi<g ref="char:EOLhyphen"/>rectelick, onder wat pretext ſulcx oock ſoude mo<g ref="char:EOLhyphen"/>ghen geſchieden, op pene dat verbeurt ſal ziin, ende werden ſoodanighe ſomme, als by de Aſſeu<g ref="char:EOLhyphen"/>radeurs ſal weſen verſeeckert, ende dat 't ſelve ſoo wel ten reguarde van 't deen van de aſſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rantie als van t'geven van renverſalen plaetſe hebben, en effect ſorteren ſal, 't appliceren ende te executeren als vooren. Ende ſullen d'Offici<g ref="char:EOLhyphen"/>eren die daer inne bevonden ſullen worden naelatich geweeſt te zijn, daer over arbitralick werden gecorigeert, oock met privatie van haer bedieningen, of anders, ſoo als nae gelegen<g ref="char:EOLhyphen"/>theydt bevonden ſal worden te behooren.</p>
+               <p>
+                  <hi>Ende ten eynde niemant hier van eenige ignorantia <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emaels kome te pretenderen, Ontbieden ende verloe<g ref="char:EOLhyphen"/>cken wy de Heeren Staten, Gecommitteerde Raden, ende Gedeputeer de Staten van de Provincien reſpe<g ref="char:EOLhyphen"/>ctive van Gelder andt ende 't Graefſchap Zutphen, Ho<g ref="char:EOLhyphen"/>landt ende Weſt-Viſeſlandt, Zeelandt, Vtrecht, Vtſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>land, Over-Yſſel, mitigader Stadt Groningen ende Ommelanden, ende allen anderen Iuſticieren ende Officieren van de ſelve, dat ſy deſe onſe Ordonnantie van ſtouden aen alomme doen verkondigen, publicar<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>: ende affigeren in allen plaetſen daer ſuix nodich w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſen ſal, ende men gewoon is ſoodanighe publicatie ende af<g ref="char:EOLhyphen"/>fixie te doen. Laſten ende beveelan vooirs da Raden ter Admiraliteyt, de Advocaten <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſcaels, mit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gaders Admi<g ref="char:EOLhyphen"/>raels, Vice-Admiraels, Capiteynen Offcieren en B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>velhebbe ren, als mede de Commiſſariſen en Commiſen ter recharche, ſoo in de Zeegaten als <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wers, deſe onſe Or<g ref="char:EOLhyphen"/>donn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntie te achten volgen, ende doen achtervolgen prrcederende ende doende procederen regens de Con<g ref="char:EOLhyphen"/>traventeurs van dien, ſonder <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ooghſuychinge, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>av<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur, diſſimulatie ofte verdrach, want wy ſulx alſoo tem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>di<g ref="char:EOLhyphen"/>encte van den Lande bevonden hebben noodigh te zijn. Aldus gedaen, geatreſteert gerenoveert en geampiteert ter Vergaderinge van de hoogh-gemelts Staten Gene<g ref="char:EOLhyphen"/>rael. In den Hage den veertienden April 1672. Was geparapheert, <hi>J. van Gent, Vt.</hi> Onderſlondt. Ter Or<g ref="char:EOLhyphen"/>donnantie van de ſelve. Geteeckent, <hi>Gaſp. Fagel.</hi> Zi<g ref="char:EOLhyphen"/>jnde on't ſpatium gedruckt het Cacht van ha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Ho. Mog. oppeen rooden Owel, overdeckt met een Papi<g ref="char:EOLhyphen"/>eren Rupte.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div xml:lang="eng" type="colophon">
+            <p>In the <hi>Hague</hi> Printed by <hi>Jacobus Scheltus</hi> Printer to the High and Mighty Lords the States General, <hi>dwelling</hi> in the <hi>Inner Hoff, Anno 1672.</hi>
+            </p>
+         </div>
+         <div xml:lang="dut" type="colophon">
+            <p>IN s' GRAVENHAGE, By <hi>Jacobus Scheltus,</hi> Drucker van de Hoogh Mog. Heeren Staten Generael, woo<g ref="char:EOLhyphen"/>nende op het Binnen-Hoff. Anno 1672.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
